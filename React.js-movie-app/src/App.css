@@ -1,0 +1,10 @@
+.btnClass {
+    text-decoration: none;
+    color: black;
+    background-color: white;
+    border: none;
+}
+
+.zoom:hover {
+    transform: scale(1.2);
+}
